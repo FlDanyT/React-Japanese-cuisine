@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Japanese-cuisine/static/css/main.f41ee55a.css",
+    "main.js": "/React-Japanese-cuisine/static/js/main.fcc58cf3.js",
+    "static/media/sushi.jpg": "/React-Japanese-cuisine/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/React-Japanese-cuisine/index.html",
+    "main.f41ee55a.css.map": "/React-Japanese-cuisine/static/css/main.f41ee55a.css.map",
+    "main.fcc58cf3.js.map": "/React-Japanese-cuisine/static/js/main.fcc58cf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41ee55a.css",
+    "static/js/main.fcc58cf3.js"
+  ]
+}
